@@ -1,0 +1,4 @@
+#Fri Aug 19 20:58:23 ICT 2022
+base.0=C\:\\Users\\NNJio\\Desktop\\BakeryShop\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
